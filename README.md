@@ -52,9 +52,9 @@ The Project was build using Java, JDBC, and MySQL while emphasizing secure datab
 
 ## Installation 
 ```
-git clone ...
+git clone https://github.com/BryanGonzalez05/SQL-query-sharing-system.git
 
-cd filename
+cd SQL-query-sharing-system
 
 install the DB schema into your database
 
